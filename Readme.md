@@ -31,6 +31,8 @@ remove(array, 0, 1); //=> [3, 4]
 
 This code was originally written by John Resig: http://ejohn.org/blog/javascript-array-remove/
 
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2014, River Grimm <river.grimm@gmail.com>
