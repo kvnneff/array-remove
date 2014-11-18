@@ -1,0 +1,13 @@
+{
+    "name": "array-remove",
+    "repo": "staygrimm/array-remove",
+    "description": "Remove a range of elements from an array",
+    "version": "1.0.0",
+    "keywords": ["array", "remove", "splice"],
+    "dependencies": {},
+    "development": {},
+    "license": "MIT",
+    "scripts": [
+        "index.js"
+    ]
+}
